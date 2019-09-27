@@ -13,4 +13,4 @@ Generally, the accuracy of reconizing single digit can achieve 99%+
 ![Screenshot 2019-09-25 at 9 40 34 PM](https://user-images.githubusercontent.com/29504448/65606283-2dc28500-dfdd-11e9-9e94-03b09d4d602f.png)
 
 ### Reference
-https://www.cnblogs.com/beer/p/5672678.html
+https://github.com/zhengwh/captcha-svm
